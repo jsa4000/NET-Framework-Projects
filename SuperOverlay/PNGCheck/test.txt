@@ -1,0 +1,7 @@
+Images\Bad.png  EOF while reading IDAT data
+ERROR: Images\Bad.png
+OK: Images\Fixed.png (900x900, 32-bit RGB+alpha, non-interlaced, 82.3%).
+OK: Images\Good.png (900x900, 32-bit RGB+alpha, non-interlaced, 86.8%).
+
+Errors were detected in 1 of the 3 files tested.
+No errors were detected in 2 of the 3 files tested.

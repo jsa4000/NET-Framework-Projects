@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyHook", "KeyHook\KeyHook.csproj", "{91847C84-AC5D-4EF9-BBF8-CC4C3EB14FF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyHookShell", "KeyHookShell\KeyHookShell.csproj", "{8B5F6F15-D083-4C9D-8A93-AFB92DD356A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SrvKeyProc", "SrvKeyProc\SrvKeyProc.csproj", "{C78F2DD3-A95F-40D8-9C93-20D4CA1A8ECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyProc", "KeyProc\KeyProc.csproj", "{2E513456-19B4-4C5E-840F-CFC3F2F65CE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91847C84-AC5D-4EF9-BBF8-CC4C3EB14FF9}.Debug|x86.ActiveCfg = Debug|x86
+		{91847C84-AC5D-4EF9-BBF8-CC4C3EB14FF9}.Debug|x86.Build.0 = Debug|x86
+		{91847C84-AC5D-4EF9-BBF8-CC4C3EB14FF9}.Release|x86.ActiveCfg = Release|x86
+		{91847C84-AC5D-4EF9-BBF8-CC4C3EB14FF9}.Release|x86.Build.0 = Release|x86
+		{8B5F6F15-D083-4C9D-8A93-AFB92DD356A4}.Debug|x86.ActiveCfg = Debug|x86
+		{8B5F6F15-D083-4C9D-8A93-AFB92DD356A4}.Debug|x86.Build.0 = Debug|x86
+		{8B5F6F15-D083-4C9D-8A93-AFB92DD356A4}.Release|x86.ActiveCfg = Release|x86
+		{8B5F6F15-D083-4C9D-8A93-AFB92DD356A4}.Release|x86.Build.0 = Release|x86
+		{C78F2DD3-A95F-40D8-9C93-20D4CA1A8ECA}.Debug|x86.ActiveCfg = Debug|x86
+		{C78F2DD3-A95F-40D8-9C93-20D4CA1A8ECA}.Debug|x86.Build.0 = Debug|x86
+		{C78F2DD3-A95F-40D8-9C93-20D4CA1A8ECA}.Release|x86.ActiveCfg = Release|x86
+		{C78F2DD3-A95F-40D8-9C93-20D4CA1A8ECA}.Release|x86.Build.0 = Release|x86
+		{2E513456-19B4-4C5E-840F-CFC3F2F65CE9}.Debug|x86.ActiveCfg = Debug|x86
+		{2E513456-19B4-4C5E-840F-CFC3F2F65CE9}.Debug|x86.Build.0 = Debug|x86
+		{2E513456-19B4-4C5E-840F-CFC3F2F65CE9}.Release|x86.ActiveCfg = Release|x86
+		{2E513456-19B4-4C5E-840F-CFC3F2F65CE9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

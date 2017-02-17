@@ -1,0 +1,25 @@
+
+
+DATABASE
+
+-> Prepare database to create the tables and columns to be able to store the data from receivers
+   -> EpochData
+   -> SatelliteData: Station, Epoch, PRN, Signal
+   -> Station: Acronym, Name, Position (Longitude, Latitude and height), Output folder, 
+   -> LastExecution
+
+-> Create foreigns keys, primary keys and index for the tables created.
+
+MANAGEMENTS TOOLS
+
+-> Create MMI with Ribbon tool to start adding features to manage the receivers analysed previously.
+-> Create a MMI to manage the Station created for Receivers Analyser
+-> Create FILTERS And QUERYs
+
+RECEIVERS Analyser
+
+-> Add a function to store the data analysed into database.
+
+
+ 
+    

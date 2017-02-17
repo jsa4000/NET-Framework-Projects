@@ -1,3 +1,5 @@
 # Framework .NET Snippets
 
-This is a repository for useful snippets using visual studio and Framework .NET.
+This is a repository with projects using visual studio and Framework .NET.
+
+
