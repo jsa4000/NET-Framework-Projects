@@ -3,7 +3,7 @@
     Private Function GenerateContent() As String
 
         'Createt the URL 
-        Dim content As String = "upcm_status=" & txtField1.Text & "&coverage_type=" & txtField2.Text & "&coverage_geo=" & txtField3.Text & _
+        Dim content As String = "status=" & txtField1.Text & "&coverage_type=" & txtField2.Text & "&coverage_geo=" & txtField3.Text & _
         "&coverage_value=" & txtField4.Text & "&occurred=" & txtField5.Text & "&coverage_action=" & txtField6.Text
         'Encode the url
         Return Uri.EscapeUriString(content)
